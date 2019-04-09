@@ -1,4 +1,4 @@
-package com.zhongyou.programing.semaphore;
+package com.zhongyou.programing.synchronization.semaphore;
 
 import java.util.concurrent.Semaphore;
 

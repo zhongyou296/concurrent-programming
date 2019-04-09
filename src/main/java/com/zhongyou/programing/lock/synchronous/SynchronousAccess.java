@@ -1,4 +1,4 @@
-package com.zhongyou.programing.synchronous;
+package com.zhongyou.programing.lock.synchronous;
 
 /**
  * <p>版权所有： 版权所有(C)2011-2099</p>

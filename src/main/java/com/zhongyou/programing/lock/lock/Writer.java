@@ -1,4 +1,4 @@
-package com.zhongyou.programing.lock;
+package com.zhongyou.programing.lock.lock;
 
 /**
  * <p>版权所有： 版权所有(C)2011-2099</p>

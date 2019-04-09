@@ -1,4 +1,4 @@
-package com.zhongyou.programing.lock;
+package com.zhongyou.programing.lock.lock;
 
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
