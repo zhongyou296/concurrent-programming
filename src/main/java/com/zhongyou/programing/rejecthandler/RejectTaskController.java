@@ -1,4 +1,4 @@
-package com.zhongyou.programing.rejecthander;
+package com.zhongyou.programing.rejecthandler;
 
 import java.util.concurrent.RejectedExecutionHandler;
 import java.util.concurrent.ThreadPoolExecutor;
